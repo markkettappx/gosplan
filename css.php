@@ -1,0 +1,8 @@
+<style>
+h1 {
+text-align: center;
+}
+span {
+color: red;
+}
+</style>
